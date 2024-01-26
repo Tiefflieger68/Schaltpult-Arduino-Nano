@@ -14,7 +14,7 @@ Schalteingänge mit diesen Schalterkonfigurationen sind, beliebig kombiniert, nu
 
 Details siehe "DOCS"
 
-Dies ist die aktualiesierte Version von https://github.com/Tiefflieger68/Schaltpult-fuer-openTX-Sender  
+Dies ist die aktualisierte Version von https://github.com/Tiefflieger68/Schaltpult-fuer-openTX-Sender  
 auf Basis eines Arduino Nano.  
  
 Die Schaltung erzeugt ein 16-Kanal PPM Signal, abhängig von der jeweiligen Schalterstellung.  
