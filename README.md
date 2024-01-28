@@ -5,7 +5,7 @@
 ![image lost ?](Pics/MT12.jpg)
  
  
-Anschlüsse für bis zu 16 zusätzliche Schalter.  
+Anschlüsse für bis zu 14 zusätzliche Schalter und 2 Potis.  
 Schalteingänge mit diesen Schalterkonfigurationen sind, beliebig kombiniert, nutzbar:  
 •  2-Pos-Schalter  
 •  3-Pos-Schalter  
@@ -24,6 +24,7 @@ Entwickelt wurde die Schaltung für die Möglichkeiten von OpenTX und EdgeTX Fer
 Evtl. können aber auch andere Systeme das PPM-Signal nutzen.  
 
 Der Code wurde mit BASCOM-AVR erzeugt.  
+Siehe "Source" und "Binary"
 
 
 # English:  
