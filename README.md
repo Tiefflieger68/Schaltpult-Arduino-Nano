@@ -17,7 +17,7 @@ Details siehe "DOCS"
 Dies ist die aktualisierte Version von https://github.com/Tiefflieger68/Schaltpult-fuer-openTX-Sender  
 auf Basis eines Arduino Nano.  
  
-Die Schaltung erzeugt ein 16-Kanal PPM Signal, abhängig von der jeweiligen Schalterstellung.  
+Die Schaltung erzeugt ein 16-Kanal PPM Signal.  
 Dies wird über die Trainer-Buchse oder den Modulschacht in die Fernsteuerung eingespeist.  
  
 Entwickelt wurde die Schaltung für die Möglichkeiten von OpenTX und EdgeTX Fernsteuerungen.  
