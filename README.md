@@ -26,6 +26,8 @@ Evtl. können aber auch andere Systeme das PPM-Signal nutzen.
 Der Code wurde mit BASCOM-AVR erzeugt.  
 Siehe "Source" und "Binary"
 
+Eine Materialliste findest Du hier: https://www.reichelt.de/my/2115155
+
 
 # English:  
 By now, all documents are written in German. I will support English requests as well  
