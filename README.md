@@ -36,8 +36,17 @@ https://www.rc-network.de/threads/schaltpult-nautik-modul-f%C3%BCr-frsky-opentx-
 und  
 https://www.rockcrawler.de/thread/52817-abnehmbare-schaltererweiterung-f%C3%BCr-radiomaster-mt12/?pageNo=1  
 
+Eine Materialliste findest Du hier: https://www.reichelt.de/my/2115155  
 
-Eine Materialliste findest Du hier: https://www.reichelt.de/my/2115155
+
+Neben dem Arduino Nano sind nur wenige Bauteile nötig  
+
+![image lost ?](Pics/PCB02.jpg)
+
+Auch fertig verdrahtet bleibt es übersichtlich  
+
+![image lost ?](Pics/PCB06.jpg)
+
 
 
 # English:  
