@@ -32,7 +32,7 @@ Der Code wurde mit BASCOM-AVR erzeugt.
 Siehe "Source" und "Binary"
 
 Support-Forum:  
-https://www.rc-network.de/threads/schaltpult-nautik-modul-f%C3%BCr-frsky-opentx-sender.690399/
+https://www.rc-network.de/threads/schaltpult-nautik-modul-f%C3%BCr-frsky-opentx-sender.690399/  
 und  
 https://www.rockcrawler.de/thread/52817-abnehmbare-schaltererweiterung-f%C3%BCr-radiomaster-mt12/?pageNo=1  
 
