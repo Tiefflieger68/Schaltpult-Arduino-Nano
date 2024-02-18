@@ -22,7 +22,7 @@ Die Schaltung erzeugt ein 16-Kanal PPM oder SBUS Signal.
 PPM wird über die Trainer-Buchse oder den externen Modulschacht,    
 SBUS wird über den Serial Port oder den externen Modulschacht in den Sender eingespeist.
 
-Je nach Protokoll, stehen verschiedene Binarys zur Verfügung  
+Je nach Protokoll, stehen verschiedene Binaries zur Verfügung  
 - PPM: 16-Kanal PPM Signal  
 - SBUS: Standard SBUS (Modulschacht)  
 - SBUS UART: SBUS für non-inverted UART (Serial Ports)  
