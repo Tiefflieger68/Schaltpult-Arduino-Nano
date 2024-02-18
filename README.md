@@ -13,11 +13,10 @@ Schalteingänge mit diesen Schalterkonfigurationen sind, beliebig kombiniert, nu
 •  Einfache Taster  
 •  Doppeltaster (2 Taster auf einem Eingang)  
 
-Details siehe "DOCS"
 
-Dies ist die aktualisierte Version von https://github.com/Tiefflieger68/Schaltpult-fuer-openTX-Sender  
-auf Basis eines Arduino Nano.  
- 
+Details und Einstellungen für OpenTX und EdgeTX für siehe "DOCS"  
+
+
 Die Schaltung erzeugt ein 16-Kanal PPM oder SBUS Signal.  
 PPM wird über die Trainer-Buchse oder den externen Modulschacht,    
 SBUS wird über den Serial Port oder den externen Modulschacht in den Sender eingespeist.
