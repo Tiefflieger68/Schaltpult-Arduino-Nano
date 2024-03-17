@@ -26,6 +26,7 @@ Je nach Protokoll, stehen verschiedene Binaries zur Verfügung
 - SBUS: Standard SBUS (Modulschacht)  
 - SBUS UART: SBUS für non-inverted UART (Serial Ports)  
 
+Achtung mit EdgeTX 2.10.0 ist der Pin für SBUS Trainer auf den S.Port Pin umgezogen !
  
 Der Code wurde mit BASCOM-AVR erzeugt.  
 Siehe "Source" und "Binary"
