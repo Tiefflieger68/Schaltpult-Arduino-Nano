@@ -1,1 +1,4 @@
 BASCOM Source File
+Binaries are compiled with Bascom-AVR 2.0.8.6
+bugfix for serout INVERTED needed !!!
+https://www.mcselec.com/index2.php?option=com_forum&Itemid=59&page=viewtopic&p=84137#84137                                                          
