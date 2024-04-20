@@ -15,21 +15,18 @@ Schalteingänge mit diesen Schalterkonfigurationen sind, beliebig kombiniert, nu
 
 Details und Einstellungen für OpenTX und EdgeTX für siehe "DOCS"  
 
-Die Schaltung erzeugt ein 16-Kanal PPM oder SBUS Signal.  
-PPM wird über die Trainer-Buchse oder den externen Modulschacht,    
-SBUS wird über den Serial Port oder den externen Modulschacht in den Sender eingespeist.
-
-Je nach Protokoll, stehen verschiedene Anschlussmöglichkeiten zur Verfügung und es ist der entsprechende Anschluss am Arduino Nano auszuwählen.
-- PPM: 16-Kanal PPM Signal  
+Die Schaltung erzeugt ein 16-Kanal PPM, SBUS und SBUS UART (nicht invertiert) Signal.  
+Je nach Protokoll, stehen verschiedene Anschlussmöglichkeiten zur Verfügung und es ist der entsprechende Anschluss am Arduino Nano auszuwählen.  
+- PPM: 16-Kanal PPM Signal (Modulschacht und Trainerport)  
 - SBUS: Standard SBUS (Modulschacht)  
 - SBUS UART: SBUS für non-inverted UART (Serial Ports)  
 
 siehe „Anschaltung 0.3.x.pdf“
 
 Nicht alle Möglichkeiten stehen bei allen Sendern zur Verfügung.
-Wenn möglich sollte eine Variante mit SBUS-Protokoll gewählt werden, da die Werte digital und damit genauer übertragen werden.
+Es sollte möglichst eine Variante mit SBUS-Protokoll gewählt werden, da die Werte digital und damit genauer übertragen werden.
 
-Achtung mit EdgeTX 2.10.0 ist der Pin für SBUS Trainer auf den S.Port Pin umgezogen !
+###Achtung mit EdgeTX 2.10.0 ist der Pin im Modulschacht für SBUS Trainer auf den S.Port Pin umgezogen !
  
 Der Code wurde mit BASCOM-AVR erzeugt.  
 Siehe "Source" und "Binary"
