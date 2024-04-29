@@ -19,7 +19,7 @@ Die Schaltung erzeugt ein 16-Kanal PPM, SBUS und SBUS UART (nicht invertiert) Si
 Je nach Protokoll, stehen verschiedene Anschlussmöglichkeiten zur Verfügung und es ist der entsprechende Anschluss am Arduino Nano auszuwählen.  
 - PPM: 16-Kanal PPM Signal (Modulschacht und Trainerport)  
 - SBUS: Standard SBUS (Modulschacht)  
-- SBUS UART: SBUS für non-inverted UART (Serial Ports)  
+- SBUS UART: SBUS für non-inverted UART (AUX Ports)  
 
 siehe „Anschaltung 0.3.x.pdf“
 
