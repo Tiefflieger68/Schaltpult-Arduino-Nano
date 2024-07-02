@@ -54,5 +54,5 @@ By now, all documents are written in German. I will support English requests as 
 
 Support-Forum:  
 https://www.rc-network.de/threads/schaltpult-nautik-modul-f%C3%BCr-frsky-opentx-sender.690399/  
-und  
+and  
 https://www.rockcrawler.de/thread/52817-abnehmbare-schaltererweiterung-f%C3%BCr-radiomaster-mt12/?pageNo=1  
