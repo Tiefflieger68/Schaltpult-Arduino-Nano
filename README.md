@@ -51,3 +51,8 @@ Auch fertig verdrahtet bleibt es übersichtlich
 
 # English:  
 By now, all documents are written in German. I will support English requests as well  
+
+Support-Forum:  
+https://www.rc-network.de/threads/schaltpult-nautik-modul-f%C3%BCr-frsky-opentx-sender.690399/  
+und  
+https://www.rockcrawler.de/thread/52817-abnehmbare-schaltererweiterung-f%C3%BCr-radiomaster-mt12/?pageNo=1  
