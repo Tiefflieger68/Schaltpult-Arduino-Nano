@@ -5,6 +5,7 @@
 ![image lost ?](Pics/MT12.jpg)
 
 Entwickelt wurde die Schaltung für die Möglichkeiten von OpenTX und EdgeTX Fernsteuerungen.  
+Siehe auch das Vorgängerprojekt: https://github.com/Tiefflieger68/Schaltpult-fuer-openTX-Sender  
  
 Anschlüsse für bis zu 14 zusätzliche Schalter und 2 Potis.  
 Schalteingänge mit diesen Schalterkonfigurationen sind, beliebig kombiniert, nutzbar:  
