@@ -27,7 +27,7 @@ siehe „Anschaltung 0.3.x.pdf“
 Nicht alle Möglichkeiten stehen bei allen Sendern zur Verfügung.
 Es sollte möglichst eine Variante mit SBUS-Protokoll gewählt werden, da die Werte digital und damit genauer übertragen werden.
 
-### Achtung mit EdgeTX 2.10.0 ist der Pin im Modulschacht für SBUS Trainer auf den S.Port Pin umgezogen !
+### Achtung mit EdgeTX 2.10.0 ist der Pin im Modulschacht für SBUS Trainer bei einigen Sendern (z.B. FrSky X10) auf den S.Port Pin umgezogen !  
  
 Der Code wurde mit BASCOM-AVR erzeugt.  
 Siehe "Source" und "Binary"
