@@ -4,7 +4,7 @@
  
 ![image lost ?](Pics/MT12.jpg)
 
-![image lost ?](pics/Schaltpult.jpg)
+![image lost ?](Pics/Schaltpult.jpg)
  
 Entwickelt wurde die Schaltung für die Möglichkeiten von OpenTX und EdgeTX Fernsteuerungen.  
 Siehe auch das Vorgängerprojekt: https://github.com/Tiefflieger68/Schaltpult-fuer-openTX-Sender  
